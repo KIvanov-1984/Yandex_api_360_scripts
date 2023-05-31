@@ -12,7 +12,7 @@ ya_org_code=<Your Ya org code>
 # Список пользователей
 ya_request="/directory/v1/org/$ya_org_code/users?page=1&perPage=600"
 # Список групп
-ya_request="/directory/v1/org/$ya_org_code/groups?page=1&perPage=300"
+#ya_request="/directory/v1/org/$ya_org_code/groups?page=1&perPage=300"
 # Список подразделений
 #ya_request="/directory/v1/org/$ya_org_code/departments?page=1&perPage=300&orderBy=name"
 # OAuth код администратора организации
