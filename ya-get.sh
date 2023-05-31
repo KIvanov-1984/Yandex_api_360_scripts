@@ -7,7 +7,7 @@ ya_req="users"
 #ya_req="groups"
 #ya_req="departments"
 # Код организации в Яндекс
-ya_org_code=<Your Ya org code>
+ya_org_code=< Your Ya org code >
 # Варианты запросов, необходимо раскоментрировать нужный
 # Список пользователей
 ya_request="/directory/v1/org/$ya_org_code/users?page=1&perPage=600"
