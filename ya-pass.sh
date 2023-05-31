@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Код организации в Яндекс
-ya_org_code=<Your Ya org code>
+ya_org_code=< Your Ya org code >
 # OAuth код администратора организации
 ya_oauth_code="< Your yandex oauth code >"
 # Количество символов в пароле
